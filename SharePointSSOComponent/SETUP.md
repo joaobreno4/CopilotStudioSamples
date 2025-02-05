@@ -33,7 +33,7 @@ This step can be completed mostly by following the instructions here: [Configure
   <img src="./images/toeknExchangeURL.png" alt="Authentication Settings">
   <br>
   <em>Authentication configuration of the copilot, including token exchange URL</em>
-</p>
+</p> 
 
 
 Once all the steps under [Configure user authentication with Microsoft Entra ID](https://learn.microsoft.com/en-us/power-virtual-agents/configuration-authentication-azure-ad) have been completed and the optional additional scopes have been specified, you should be able to use Generative Answers over a SharePoint or OneDrive data source from the Microsoft Copilot Studio authoring experience. Please refer to [Use content on SharePoint or OneDrive for Business for generative answers](https://learn.microsoft.com/en-us/power-virtual-agents/nlu-generative-answers-sharepoint-onedrive) for instructions on add a SharePoint or OneDrive data source for your Copilot Generative Answers node.
